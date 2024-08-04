@@ -20,7 +20,7 @@ Check out the link below and test LiveDocs out!!
 
 http://realtime-rt-docs.vercel.app
 
-Give your feedbacks via : oguzyucel.oy@gmail.com
+Give your feedbacks via : oguzyucell.oy@gmail.com
 
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
